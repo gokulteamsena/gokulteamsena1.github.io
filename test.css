@@ -1,0 +1,23 @@
+
+
+header {
+     background-image: url("img/bgheader.jpg");
+     height: 180px;
+     background-size: cover;
+}
+
+h2 {
+  color: white;
+  padding: 80px;
+  color: white;
+
+}
+
+h2:hover {
+  color: white;
+  text-decoration: solid orange 3px;
+}
+
+img {
+  height: 450px;
+}

@@ -1,0 +1,51 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+img {
+	width: 400px;
+	height: 600px;
+	margin: 10px;
+	transition: all 1s;
+}
+img:hover {
+	transform: scale(1.1);
+
+
+}
+h1 {
+	color: white;
+	text-align: center;
+	font-family: Lucida Console;
+
+}
+h2 {
+	color: white;
+}
+.row {
+	color: green;
+	padding: 30px;
+	align-items: center;
+	font-size: 30px;
+	display: inline-flex;
+	font-family: Georgia;
+}
+.row a {
+	font-size: 20px;
+	color: white;
+	text-transform: uppercase;
+	display: inline;
+	transform: scale(1.1);
+	font-family: Lucida Console;
+}
+
+.row a:hover{
+	color: orange;
+	}
+
+u {
+	color: white;
+}
